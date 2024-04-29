@@ -1,0 +1,49 @@
+---
+title: "Project step 5" 
+author: Abby Komiske
+doc: pdf
+--- 
+
+### Brainstorming presentation
+
+- Identify the central theme of your planned research: Consider the research question, data preparation strategy, and analysis plan you have developed. What is the potential significance of your planned research? How might it contribute to the field or area? What are the key takeaways you want your audience to understand?
+
+The potential significance is in understanding and predicting judicial behavior, which would be invaluable. It would greatly contribute to the field of judicial behavior because not many researchers have delved into the linguistic features of judicial behavior. This may include anything from majority opinion to how the NC Supreme Court works. I want my audience to know how new the field is and how my project differs form other predictive models because of its base in linguistic features. 
+
+- Consider the audience: Who is your audience? What are their interests and needs? What are the key messages you want to convey to your audience? What do you want from your audience (feedback, support, collaboration, *etc.*)?
+
+My audience is my class. There interests are in linguistics, but perhaps not the law, so I may need to explain some terminology. I want to convey the feasibility of my project but I want them to help refine my project. I want to know what they think of the idea especially. 
+
+- Develop a presentation outline: What are the key sections of your presentation? What are the key points you want to make in each section? What visual aids will you use to support your points?
+
+### Draft a presentation
+
+I have drafted a presentation, which is in my project. 
+
+### Brainstorming prospectus revision
+
+- Reflect on the feedback you have received from your peers and instructor on your presentation. What were the key takeaways from the feedback? What suggestions or recommendations were made? How will you incorporate the feedback into your research plan (prospectus)?
+
+- Consider and incorporate the feedback into your research plan (prospectus). Is there anything you need to revise or update based on the feedback you received? Is the scope of your research clear and well-defined? Or too broad or too narrow? Are your research question, data preparation strategy, and analysis plan well-aligned and well-articulated? Do you have sufficient detail to guide your research?
+
+- Develop a plan for finalizing your research plan (prospectus). What steps do you need to take to complete your research plan? What resources or support do you need to finalize your research plan?
+
+### Finalize your research plan (prospectus)
+
+1. Reflect on your answers to the brainstorming questions above and finalize your research plan (prospectus) based on the feedback you have received throughout the process. Make sure to [include the sections outlined in syllabus](https://lin-380-s24.github.io/#tbl-prospectus-template).
+2. Remember: this activity provides an opportunity to demonstrate your skills in quantitative text analysis and its application to language science research. These align with the [course learning outcomes](https://lin-380-s24.github.io/#learning-outcomes).
+   * To demonstrate your skills you do not have to have a perfect research plan, but you should have a well-considered and well-articulated plan that demonstrates your understanding of the research process and your ability to apply quantitative text analysis to language science research.
+
+## Assessing your progress
+
+1. Reflect on the process of communicating research.
+
+- What did you learn?
+- What did you find most/ least challenging?
+- What resources did you consult?
+
+2. Consider how your prospectus turned out.
+
+- Did your interests evolved?
+- Did your research questions and objectives evolved?
+- What factors influenced these changes?

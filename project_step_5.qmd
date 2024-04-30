@@ -1,24 +1,30 @@
 ---
-title: "Project step 5" 
+title: "Project step 5"
 author: Abby Komiske
 doc: pdf
---- 
+---
 
 ### Brainstorming presentation
 
 - Identify the central theme of your planned research: Consider the research question, data preparation strategy, and analysis plan you have developed. What is the potential significance of your planned research? How might it contribute to the field or area? What are the key takeaways you want your audience to understand?
 
-The potential significance is in understanding and predicting judicial behavior, which would be invaluable. It would greatly contribute to the field of judicial behavior because not many researchers have delved into the linguistic features of judicial behavior. This may include anything from majority opinion to how the NC Supreme Court works. I want my audience to know how new the field is and how my project differs form other predictive models because of its base in linguistic features. 
+The potential significance is in understanding and predicting judicial behavior, which would be invaluable. It would greatly contribute to the field of judicial behavior because not many researchers have delved into the linguistic features of judicial behavior. This may include anything from majority opinion to how the NC Supreme Court works. I want my audience to know how new the field is and how my project differs form other predictive models because of its base in linguistic features.
+
+<!-- 2024-04-29: Excellent. I'm glad you are able to communicate the importance of the planned research. -->
 
 - Consider the audience: Who is your audience? What are their interests and needs? What are the key messages you want to convey to your audience? What do you want from your audience (feedback, support, collaboration, *etc.*)?
 
-My audience is my class. There interests are in linguistics, but perhaps not the law, so I may need to explain some terminology. I want to convey the feasibility of my project but I want them to help refine my project. I want to know what they think of the idea especially. 
+My audience is my class. There interests are in linguistics, but perhaps not the law, so I may need to explain some terminology. I want to convey the feasibility of my project but I want them to help refine my project. I want to know what they think of the idea especially.
+
+<!-- 2024-04-29: Good. It's important to consider the audience's interests and needs when preparing a presentation. It is also important to recognize what you (and your research) stand to gain as well. Keep these in mind and your presentation will be a huge success. -->
 
 - Develop a presentation outline: What are the key sections of your presentation? What are the key points you want to make in each section? What visual aids will you use to support your points?
 
 ### Draft a presentation
 
-I have drafted a presentation, which is in my project. 
+I have drafted a presentation, which is in my project.
+
+<!-- 2024-04-29: Great. I'll take a look. -->
 
 ### Brainstorming prospectus revision
 
